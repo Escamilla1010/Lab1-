@@ -8,7 +8,15 @@
 </head>
 <body>
     <div>
-        <h1> Bienvenido        </h1>
+        <h1>Bienvenido</h1>
+        <a href="../Video/Agregar">Agregar Video</a>
+        <br />
+       <a href="/Video/Modificar">Modificar Video</a>
+        <br />          
+<a href="/Video/Eliminar">Eliminar Video</a>
+        <br />  
+<a href="/Video/Index">Ver Video</a>
+
     </div>
 </body>
 </html>
